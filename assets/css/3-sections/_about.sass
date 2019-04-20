@@ -14,7 +14,15 @@
     margin: 30px auto 70px
     +size(400px)
 
-@media screen and (max-width: 650px)
+.blurb
+  max-width: 620px
+  padding: 0 20px
+  margin: 0px auto
+  font-size: 24px
+  text-align: left
+  font-weight: 300
+
+@media (max-width: 640px)
   .face-lockup
     display: block
     text-align: center
@@ -28,16 +36,11 @@
         position: center center
         repeat: no-repeat
       margin: 0 auto 30px
+      +size(200px)
 
-.blurb
-  max-width: 620px
-  padding: 0 20px
-  margin: 0px auto
-  font-size: 24px
-  text-align: left
-  font-weight: 300
-
-
+  .blurb
+    font-size: 20px
+    text-align: center
 
 
 .skill-lockup
