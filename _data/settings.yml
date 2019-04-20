@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Michael's Portfolio
-description: Thinker // Student // Creative
+description: Student // Thinker // Creative
 email: michael.mugnai@gmail.com
 
 # NOTE: The Logo and Background image are defined in _data/layout.yml,
@@ -33,6 +33,24 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 #google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in _data/layout.yml.
+
+blurb: >
+  **Michael specializes in making robots** for human people. Even if is still only a student at *University of Pisa*, he has already gained experience on **robotics**, **automation** and **control** through numerous projects and his participation in **FormulaSAE** racing team.
+
+
+skills:
+- {name: Programming, value: '9'}
+- {name: Electronics, value: '8'}
+- {name: Learning, value: '10'}
+- {name: Team-working, value: '8'}
+- {name: Rapid prototiping, value: '8'}
+- {name: Hardware appeal, value: '9'}
+
 
 
 #-------------------------------

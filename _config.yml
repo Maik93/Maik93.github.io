@@ -12,5 +12,6 @@ sass:
   sass_dir: assets/css
   style: :nested
 
+repository: "Maik93/Maik93.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
