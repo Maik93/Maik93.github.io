@@ -7,8 +7,8 @@ In order to edit it, you need to install Ruby and Jekyll, then follow the steps 
 ## Clone and run
 It's really simple:
 
-``ssh
+```ssh
 git clone git@github.com:Maik93/Maik93.github.io.git
 cd Maik93.github.io
 jekyll serve --force_polling
-``
+```
