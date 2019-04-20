@@ -1,29 +1,31 @@
-# Jekyll
-_site/
-.jekyll-cache
-.jekyll-metadata
-.sass-cache
+# Created by http://www.gitignore.io
 
-# Ruby
-.bundle/
-.byebug_history
-.ruby-gemset
-.ruby-version
-*.gem
-Gemfile.lock
-
-# Files
-.analysis
+### OSX ###
 .DS_Store
-*.swp
-*~
+.AppleDouble
+.LSOverride
 
-# Folders
-/vendor
-bbin/
-bin/
-coverage
-gh-pages/
-pkg/
-test/dest
-tmp/*
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+### Jekyll ###
+_site/
+
+### Sass ###
+.sass-cache

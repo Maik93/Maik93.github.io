@@ -1,0 +1,18 @@
+# Layout settings
+
+animation: "fadeIn"
+
+# Images
+
+logo: "logo.svg"
+bgimage: "render_aragog.jpg"
+avatar: "avatar.jpg"
+
+# Colors
+
+accent: "#56B4E5"
+
+textColor: "#666"
+headlineColor: "#333"
+bgcolor: "#e5eaee"
+documentBackgroundColor: "#fff"

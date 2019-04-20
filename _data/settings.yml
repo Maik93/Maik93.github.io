@@ -1,0 +1,48 @@
+#-------------------------------
+# General Site Settings
+
+title: Michael's Portfolio
+description: Thinker // Student // Creative
+email: michael.mugnai@gmail.com
+
+# NOTE: The Logo and Background image are defined in _data/layout.yml,
+#       while all styles are defined starting from assets/css/all.sass.
+
+# header and footer links
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Projects, url: '#work'}
+- {name: Contacts, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Michael Mugnai portfolio.'
+  rel-author: 'Michael Mugnai'
+  rel-publisher: 'Michael Mugnai'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'github', link: 'https://github.com/Maik93'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/'}
+- {icon: 'facebook', link: 'https://www.facebook.com/maik993'}
+# maybe cut out facebook, add gitlab (but all my repos are private) and Telegram
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
