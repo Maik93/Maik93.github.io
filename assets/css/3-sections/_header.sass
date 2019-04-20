@@ -1,9 +1,10 @@
 header
   @extend %background-image
   background:
-    position: 30px 20px, 50% 50%
+    position: 30px 20px, 0px -150px
     image: url(../img/#{$logo-path}), url(../img/#{$bgimage-path})
-  padding-bottom: 50px
+    attachment: fixed
+  padding-bottom: 50px // parallax effect
 
   .logo
     +size(50px)
