@@ -56,11 +56,10 @@ skills:
 #-------------------------------
 # Contact Section
 
+# images from https://fontawesome.com/
 social:
-- {icon: 'github', link: 'https://github.com/Maik93'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/'}
-- {icon: 'facebook', link: 'https://www.facebook.com/maik993'}
-# maybe cut out facebook, add gitlab (but all my repos are private) and Telegram
-
-
-# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+- {icon: 'github-alt', link: 'https://github.com/Maik93'}
+- {icon: 'gitlab', link: 'https://gitlab.com/maik93'}
+- {icon: 'linkedin-in', link: 'https://www.linkedin.com/in/michael-mugnai-a33347185/'}
+- {icon: 'telegram-plane', link: 'https://t.me/Maik993'}
+- {icon: 'facebook-f', link: 'https://www.facebook.com/maik993'}

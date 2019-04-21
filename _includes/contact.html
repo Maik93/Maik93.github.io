@@ -5,7 +5,9 @@
 
   <div class="social-links">
     {% for link in site.data.settings.social %}
-    <a href="{{ link.link }}" class="icon-{{ link.icon }}"></a>
+    <a href="{{ link.link }}" target="_blank">
+      <i class="fab fa-{{ link.icon }}"></i>
+    </a>
     {% endfor %}
   </div>
 
