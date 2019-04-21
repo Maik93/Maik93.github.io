@@ -3,7 +3,8 @@
 
 title: Michael's Portfolio
 description: Student // Thinker // Creative
-email: michael.mugnai@gmail.com
+# Email encoded (to prevent spammers) using this tool: http://www.wbwip.com/wbw/emailencoder.html
+email: "&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#046;&#109;&#117;&#103;&#110;&#097;&#105;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"
 
 # NOTE: The Logo and Background image are defined in _data/layout.yml,
 #       while all styles are defined starting from assets/css/all.sass.
@@ -20,9 +21,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Michael Mugnai portfolio.'
-  rel-author: 'Michael Mugnai'
-  rel-publisher: 'Michael Mugnai'
+  description: 'Michael Mugnai portfolio. Michael specializes in making robots for human people. Even if is still only a student at University of Pisa, he has already gained experience on robotics, automation and control through numerous projects and his participation in FormulaSAE racing team.'
+  # rel-author: 'Michael Mugnai'
+  # rel-publisher: 'Michael Mugnai'
 
 #-------------------------------
 # Google Analytics Section
