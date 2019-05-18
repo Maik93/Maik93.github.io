@@ -6,8 +6,13 @@ rvm:
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
-script: bundle exec jekyll build
-script: bundle exec htmlproofer ./_site --disable-external
+
+jobs:
+  include:
+    # - stage: build
+    #   script: bundle exec jekyll build
+    - stage: build & htmlproofer
+      script: bundle exec jekyll build && bundle exec htmlproofer ./_site --disable-external
 
 # # branch whitelist
 # branches:
