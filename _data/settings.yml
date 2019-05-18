@@ -12,7 +12,7 @@ email: "&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#046;&#109;&#117;&#103;&#110;
 # header and footer links
 menu:
 - {name: About Me, url: '#about-me'}
-- {name: Projects, url: '#work'}
+# - {name: Projects, url: '#work'}
 - {name: Contacts, url: '#contact'}
 
 #-------------------------------
