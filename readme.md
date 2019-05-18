@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Maik93/Maik93.github.io.svg?branch=master)](https://travis-ci.org/Maik93/Maik93.github.io)
+
 # Michael Mugnai personal Portfolio
 This is the repo corresponding to my personal website, created with Jekyll and hosted by Github.
 
